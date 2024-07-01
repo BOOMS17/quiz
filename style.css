@@ -46,3 +46,7 @@ body {
 body{background-color: #333;}
 
 
+
+.final{display: flex;
+justify-content: center;
+}
